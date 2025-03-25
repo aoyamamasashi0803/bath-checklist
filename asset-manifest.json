@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bath-checklist/static/css/main.e6c13ad2.css",
+    "main.js": "/bath-checklist/static/js/main.6eeb1beb.js",
+    "static/js/453.f233e2f3.chunk.js": "/bath-checklist/static/js/453.f233e2f3.chunk.js",
+    "index.html": "/bath-checklist/index.html",
+    "main.e6c13ad2.css.map": "/bath-checklist/static/css/main.e6c13ad2.css.map",
+    "main.6eeb1beb.js.map": "/bath-checklist/static/js/main.6eeb1beb.js.map",
+    "453.f233e2f3.chunk.js.map": "/bath-checklist/static/js/453.f233e2f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6eeb1beb.js"
+  ]
+}
